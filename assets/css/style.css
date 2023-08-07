@@ -459,7 +459,7 @@ html {
 }
 .site-header .header-wrap {
   height: 100px;
-  background-color: rgba(0, 0, 0, 0.502);;
+  background-color: rgba(34, 156, 214, 0.502);;
   -webkit-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);;
   -o-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);;
   transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
@@ -487,7 +487,7 @@ html {
   -webkit-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
   -o-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
   transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: rgba(34, 156, 214, 0.9);
   -webkit-box-shadow: 2px 2px 8px rgba(0,0,0,0.15);
   box-shadow: 2px 2px 8px rgba(0,0,0,0.15);
   height: 80px;
