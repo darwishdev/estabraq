@@ -1,0 +1,8 @@
+TODO: logo
+TODO: categories on mobile 
+
+# 09/10/2023
+
+remove numbers from carousel
+translate catalog and make download pdf button
+buy email licence
